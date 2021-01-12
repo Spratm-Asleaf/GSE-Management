@@ -1,6 +1,6 @@
 > @Author: CHE Yuxin (Email: <yuxinche@u.nus.edu>; <jesmineche@outlook.com>)
 
-> @Affiliate: Department of Industrial SystemsEngineering and Management, National University of Singapore
+> @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore
 
 > @Date: Mar 12, 2020
 
@@ -9,7 +9,7 @@
 
 # GSE Management
 
-Online complementary materials of the paper titled 
+Online supplementary materials of the paper titled 
 
 **Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment**
 
