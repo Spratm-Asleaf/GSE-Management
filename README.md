@@ -13,7 +13,7 @@ Online supplementary materials of the paper titled
 
 **Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment**
 
-Published on _IEEE Internet of Things Journal_ (DOI: [10.1109/JIOT.2020.3004874](https://doi.org/10.1109/JIOT.2020.3004874))
+Published in the _IEEE Internet of Things Journal_ (DOI: [10.1109/JIOT.2020.3004874](https://doi.org/10.1109/JIOT.2020.3004874))
 
 Authored by Shixiong Wang, Yuxin Che, Huangjie Zhao, and Andrew Lim
 
