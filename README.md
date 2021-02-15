@@ -1,5 +1,7 @@
 > @Author: CHE Yuxin (Email: <yuxinche@u.nus.edu>; <jesmineche@outlook.com>)
 
+> @Origin: Forked from <https://github.com/Jesmine0902/GSE-Management>
+
 > @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore
 
 > @Date: Mar 12, 2020
